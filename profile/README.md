@@ -25,4 +25,4 @@ Pre-release. The first target is one open VLA on one chip, benchmarked against s
 
 We're looking for design partners: robot teams running VLAs onboard, and chip makers who want VLAs to run well on their silicon. Email [hello@nilabs.dev](mailto:hello@nilabs.dev).
 
-[nilabs.dev](https://www.nilabs.dev) · [Manifesto](https://www.nilabs.dev/manifesto) · [@NiLabsOrg on X](https://x.com/NiLabsOrg)
+[nilabs.dev](https://www.nilabs.dev) · [Manifesto](https://www.nilabs.dev/manifesto) · [@NiLabs_org on X](https://x.com/NiLabs_org)
